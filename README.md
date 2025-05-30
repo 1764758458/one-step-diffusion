@@ -1,2 +1,2 @@
 # one-step-diffusion
-[文章](https://yulunzhang.com/)
+[作者链接](https://yulunzhang.com/)
